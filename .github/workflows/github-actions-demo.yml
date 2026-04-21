@@ -15,4 +15,5 @@ jobs:
       - name: List files in the repository
         run: |
           ls ${{ github.workspace }}
+      - run: echo "Zhisheng completed the CS3704 GitHub Actions activity."
       - run: echo "🍏 This job's status is ${{ job.status }}."
