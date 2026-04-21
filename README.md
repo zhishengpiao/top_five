@@ -23,3 +23,6 @@ To run the project locally, please use the following commands in your terminal (
 
 ## Team Members
 - Zhisheng Piao
+
+## Class Activity
+Finishing the activity for 04/21
